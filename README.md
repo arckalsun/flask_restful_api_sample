@@ -3,8 +3,6 @@
 
 ### 服务依赖:
 - Flask
-- MongoDB
-- Redis
-- Python 3.6
+- Python 3
 
  
