@@ -1,0 +1,5 @@
+mongoengine
+Flask==0.11.1
+redis
+Flask-RESTful
+structlog
